@@ -1,5 +1,5 @@
 name: 'Debuggging with tmate'
-description: 'Debug your GitHub Actions Environment'
+description: 'Debug your GitHub Actions Environment!'
 author: 'Tomofumi Inoue'
 runs:
   using: 'node12'
